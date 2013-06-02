@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketsImplementation", "WebSocketsImplementation\WebSocketsImplementation.csproj", "{F8C30C59-1F54-4E5C-B585-EE1A3CC68A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyTec", "SkyTec\SkyTec.csproj", "{DC8AAF1B-8465-419D-AA3A-BAB7B0846CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C30C59-1F54-4E5C-B585-EE1A3CC68A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C30C59-1F54-4E5C-B585-EE1A3CC68A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C30C59-1F54-4E5C-B585-EE1A3CC68A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C30C59-1F54-4E5C-B585-EE1A3CC68A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8AAF1B-8465-419D-AA3A-BAB7B0846CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8AAF1B-8465-419D-AA3A-BAB7B0846CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8AAF1B-8465-419D-AA3A-BAB7B0846CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8AAF1B-8465-419D-AA3A-BAB7B0846CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
